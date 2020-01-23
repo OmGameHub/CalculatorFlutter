@@ -18,7 +18,7 @@ class _MyHomePageState extends State<MyHomePage> {
   TextEditingController inputController = TextEditingController();
   TextEditingController resultController = TextEditingController();
 
-  String num1 = "";
+  String num1 = "asd";
   String num2 = "";
   String opt = "";
 
